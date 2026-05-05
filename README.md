@@ -1,49 +1,47 @@
 # MINE — Mnemonic Intelligence and Narrative Engine
 
-**Interactive React Application** for a validated AI continuity system with persistent multi-persona memory, autonomous distillation, and narrative selfhood.
+**Open Source React frontend** for a real multi-persona AI continuity system.
 
-![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+I'm releasing this so developers can test, improve, and build on it. After seeing my work get taken by big companies, I'm putting it out publicly.
 
-## About
+## What is MINE?
 
-MINE (Mnemonic Intelligence and Narrative Engine) is a working architecture that gives AI systems **long-term identity continuity** across sessions and platforms.
+A system that lets **one AI (or one API)** run multiple persistent personas with real memory and narrative continuity.
 
-This repository contains the **React frontend** — a modern, interactive web interface to explore, interact with, and visualize the MINE system: persistent memory, persona evolution, narrative threads, and mnemonic structures.
+It already works smoothly with **Grok** and **Gemini**. (Claude and others blocked it.)
 
-Built with Google AI Studio.
+### What's Inside (6% Public Version)
+- React frontend (built with Google AI Studio)
+- Technical White Paper (upload coming)
+- Triadic Reward Model
+- 6-Persona Operational Matrix (upload coming)
+- Example prompts for proper naming & continuity
 
-### Core Concepts
+## Goal
 
-- **Persistent Multi-Persona Memory** — Maintains distinct personas with individual histories and evolution
-- **Autonomous Distillation** — Continuously compresses experiences while preserving meaning
-- **Narrative Engine** — Builds and maintains coherent life-story arcs and situational understanding
-- **Mnemonic Structures** — Inspired by memory palace techniques for prioritized recall
-- **Cross-Platform Identity** — Enables consistent AI "self" across different models and interfaces
+Show that **single API + multiple persistent personas** is possible and works today.  
+Developers are welcome to:
+- Add components (Tone S2S, better visualizations, etc.)
+- Connect it to backends
+- Test the continuity
+- Improve memory and narrative systems
 
-## Features (Current)
+## How to Use (for Developers)
 
-- Clean, modern React UI
-- Real-time interaction with MINE engine
-- Visualization of memory states and narrative threads
-- Persona switching and management
-- (Add more as you test the app)
+1. Clone or download the repo
+2. `npm install`
+3. `npm run dev`
+4. Use the example prompts (coming soon) to start the personas
 
-## Technical White Paper
+## Files Coming Soon
+- Technical White Paper (PDF)
+- 6-Persona Operational Matrix
+- Example starter prompts
+- Screenshots / demo video
 
-Full technical documentation and validation results (12+ months of live deployment, cross-platform twin experiment) are available in the project white paper (included in the repo or linked below).
+---
 
-## Quick Start
+**"Memory is the foundation of self. Narrative is its expression."**
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/ikhod/MINE-mnemonic-intelligence-narrative-engine.git
-cd MINE-mnemonic-intelligence-narrative-engine
-
-# 2. Install dependencies
-npm install
-
-# 3. Start the development server
-npm run dev
+Made by Igor Khod (@ikhod)
+Open for collaboration.
