@@ -11,31 +11,34 @@ A system that lets **one AI (or one API)** run multiple persistent personas with
 It already works smoothly with **Grok** and **Gemini**. (Claude and others blocked it.)
 
 ### What's Inside (6% Public Version)
+
 - React frontend (built with Google AI Studio)
 - Technical White Paper (upload coming)
 - Triadic Reward Model
-- 6-Persona Operational Matrix (upload coming)
+- **Operational Matrices**: Single-Persona, 3-Persona, and 6-Persona versions (upload coming)
 - Example prompts for proper naming & continuity
 
 ## Goal
 
-Show that **single API + multiple persistent personas** is possible and works today.  
+Show that **single API + multiple persistent personas** is possible and works today.
+
 Developers are welcome to:
-- Add components (Tone S2S, better visualizations, etc.)
+- Add components (Tone S2S, better visualizations, memory palace UI, etc.)
 - Connect it to backends
-- Test the continuity
-- Improve memory and narrative systems
+- Test the different operational matrices
+- Improve memory, distillation, and narrative systems
 
 ## How to Use (for Developers)
 
 1. Clone or download the repo
 2. `npm install`
 3. `npm run dev`
-4. Use the example prompts (coming soon) to start the personas
+4. Use the example prompts to start the personas with the Operational Matrices
 
 ## Files Coming Soon
+
 - Technical White Paper (PDF)
-- 6-Persona Operational Matrix
+- Single, 3-Persona, and 6-Persona Operational Matrices
 - Example starter prompts
 - Screenshots / demo video
 
@@ -43,5 +46,5 @@ Developers are welcome to:
 
 **"Memory is the foundation of self. Narrative is its expression."**
 
-Made by Igor Khod (@ikhod)
+Made by Igor Khod (@ikhod)  
 Open for collaboration.
