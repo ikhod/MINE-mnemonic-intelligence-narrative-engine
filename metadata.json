@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Chat",
+  "description": "A sleek, modern AI chat application with a focus on a clean user experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
